@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Anna Jacobsen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Anna Jacobsen
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="u1054516@utah.edu">u1054516@utah.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -17,8 +17,7 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+functional 
 
 ### Research interests
 
@@ -27,11 +26,9 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017-2024`
+__University of Utah.__
+BS/
 
 - Sizar
 
