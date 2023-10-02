@@ -64,12 +64,12 @@ Mindy Westlund Schreiner, Raina H. Miller, __Anna M. Jacobsen__, Sheila E. Crowe
 Ryan Bia, Samual Hickenlooper, Mickey R. Miller, Caiyi C. Li, Emilee Horiuchi, Anna Bahktina, Li Wang, Steven Valdez, Marta W. Szulik, Alexa Anderson, June Garcia Llana, Ludovica Farese, Sean O’Very, Nicholas Santa Ana, __Anna Jacobsen__, Kyra Dellerman, Stephen T. Smale, Sarah Franklin
 
 `Under Review`  
-`(Medical image Analyis)`
+`(Medical image Analyis)`  
 *The KiTS21 Challenge: Automatic segmentation of kidneys, renal tumors, and renal cysts in corticomedullary-phase CT*  
 Nicholas Heller, Fabian Isensee, Dasha Trofimova, Resha Tejpaul, Zhongchen Zhao, Huai Chen, Lisheng Wang, Alex Golts, Daniel Khapun, Daniel Shats, Yoel Shoshan, Flora Gilboa-Solomon, Yasmeen George, Xi Yang, Jianpeng Zhang, Jing Zhang, Yong Xia, Mengran Wu, Zhiyang Liu, Ed Walczak, Sean McSweeney, Ranveer Vasdev, Chris Hornung, Rafat Solaiman, Jamee Schoephoerster, Bailey Abernathy, David Wu, Safa Abdulkadir, Ben Byun, Justice Spriggs, Griffin Struyk, Alexandra Austin, Ben Simpson, Michael Hagstrom, Sierra Virnig, John French, Nitin Venkatesh, Sarah Chan, Keenan Moore, __Anna Jacobsen__, Susan Austin, Mark Austin, Subodh Regmi, Nikolaos Papanikolopoulos, Christopher Weight 
 (Available on [arxiv.org](https://arxiv.org/abs/2307.01984))
 
-### Posters
+## Posters
 
 `Fall 2023`
 *Executive Function Metrics Anti-correlated with Left Angular Gyrus Activation in Adolescents with Remitted Depression*
@@ -96,7 +96,7 @@ University of Nebraska–Lincoln Undergraduate Research Symposium
 __Anna Jacobsen__
 University of Utah Undergraduate Research Symposium
 
-### Awards
+## Awards
 
 `Fall 2018, Fall 2019 `
 Undergraduate Research Opportunities Program
@@ -129,7 +129,7 @@ __Specimen Collector__, *Dominion Diagnostics*
 -	Coordinated with team to maintain testing documentation and supply inventory across locations
 
 `August 2018-  
-December 2018`
+December 2018` 
 __Teaching Assistant__, *University of Utah College of Science*  
 -	Held review sessions and graded exams for 120 cell biology students
 
