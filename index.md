@@ -107,22 +107,27 @@ Wrote proposal and obtained funding stipend for women in scientific research for
 
 ## Work Experience
 
+`August 2022-present`
 __Patient Placement Specialist__, *Intermountain Health*                                                
 - Connecting patients in psychiatric crisis with inpatient treatment through collaboration with telehealth team
 
+`May 2021-August 2021`
 __Clinical Research Assistant__, *Intermountain Health*                                             
 -	Assisted with backend setup for 15 multi-center industry- and government-sponsored oncology clinical trials
 -	Communicated with regulatory and clinical teams to ensure correct implementation of study protocols
 
+`October 2020-June 2021`
 __Science Specialist Aide__, *AmeriCorps*
 -	Helped plan and teach science lessons at Walker Elementary School three days per week
 -	Created hands-on activity worksheets and organized materials for 200 children grades K-5
 
+`August 2019-May 2021`
 __Specimen Collector__, *Dominion Diagnostics*		  	                        	  
 -	Facilitated drug testing for 20-70 clients daily at inpatient and outpatient addiction treatment facilities
 -	Interacted with clients in a compassionate, confidential environment
 -	Coordinated with team to maintain testing documentation and supply inventory across locations
 
+`August 2018-December 2018`
 __Teaching Assistant__, *University of Utah College of Science*  
 -	Held review sessions and graded exams for 120 cell biology students
 
