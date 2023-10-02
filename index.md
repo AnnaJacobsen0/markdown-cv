@@ -63,7 +63,8 @@ Mindy Westlund Schreiner, Raina H. Miller, __Anna M. Jacobsen__, Sheila E. Crowe
 *The Histone Methyltransferase SMYD5 Regulates Cardiac Inflammatory Response via Histone H4K20 Trimethylation*  
 Ryan Bia, Samual Hickenlooper, Mickey R. Miller, Caiyi C. Li, Emilee Horiuchi, Anna Bahktina, Li Wang, Steven Valdez, Marta W. Szulik, Alexa Anderson, June Garcia Llana, Ludovica Farese, Sean O’Very, Nicholas Santa Ana, __Anna Jacobsen__, Kyra Dellerman, Stephen T. Smale, Sarah Franklin
 
-`Under review (Medical Image Analysis)`
+`Under Review`
+`(Medical image Analyis)`
 *The KiTS21 Challenge: Automatic segmentation of kidneys, renal tumors, and renal cysts in corticomedullary-phase CT*  
 Nicholas Heller, Fabian Isensee, Dasha Trofimova, Resha Tejpaul, Zhongchen Zhao, Huai Chen, Lisheng Wang, Alex Golts, Daniel Khapun, Daniel Shats, Yoel Shoshan, Flora Gilboa-Solomon, Yasmeen George, Xi Yang, Jianpeng Zhang, Jing Zhang, Yong Xia, Mengran Wu, Zhiyang Liu, Ed Walczak, Sean McSweeney, Ranveer Vasdev, Chris Hornung, Rafat Solaiman, Jamee Schoephoerster, Bailey Abernathy, David Wu, Safa Abdulkadir, Ben Byun, Justice Spriggs, Griffin Struyk, Alexandra Austin, Ben Simpson, Michael Hagstrom, Sierra Virnig, John French, Nitin Venkatesh, Sarah Chan, Keenan Moore, __Anna Jacobsen__, Susan Austin, Mark Austin, Subodh Regmi, Nikolaos Papanikolopoulos, Christopher Weight 
 (Available on [arxiv.org](https://arxiv.org/abs/2307.01984))
@@ -71,28 +72,28 @@ Nicholas Heller, Fabian Isensee, Dasha Trofimova, Resha Tejpaul, Zhongchen Zhao,
 ### Posters
 
 `Fall 2023`
-Executive Function Metrics Anti-correlated with Left Angular Gyrus Activation in Adolescents with Remitted Depression
-Anna Jacobsen, Brian Farstead, Summer Frandsen, Daniel Feldman, Erin Kaufman, Mindy Westlund-Schreiner
+*Executive Function Metrics Anti-correlated with Left Angular Gyrus Activation in Adolescents with Remitted Depression*
+__Anna Jacobsen__, Brian Farstead, Summer Frandsen, Daniel Feldman, Erin Kaufman, Mindy Westlund-Schreiner
 University of Utah Mental Health, Brain and Behavioral Science Research Day (poster won medical/graduate student category)
 
 `Spring 2022`
-Sensitizing glioblastoma cells to radiation using a small molecule DNA repair inhibitor 
-Anna Jacobsen, Forrest Kievit
+*Sensitizing glioblastoma cells to radiation using a small molecule DNA repair inhibitor* 
+__Anna Jacobsen__, Forrest Kievit
 University of Utah Department of Biomedical Engineering Thesis Symposium
 
 `Spring 2022`
-Elucidating the function and presence of a novel epigenetic modification
-Anna Jacobsen, Katie Davis, Aman Makaju, James Fulcher, Sarah Franklin
+*Elucidating the function and presence of a novel epigenetic modification*
+__Anna Jacobsen__, Katie Davis, Aman Makaju, James Fulcher, Sarah Franklin
 University of Utah Undergraduate Research Symposium
 
 `Summer 2019`
-Using DNA repair inhibitors to sensitize brain cancer cells to radiation treatment
-Anna Jacobsen, Ian Bargar, Forrest Kievit
+*Using DNA repair inhibitors to sensitize brain cancer cells to radiation treatment*
+__Anna Jacobsen__, Ian Bargar, Forrest Kievit
 University of Nebraska–Lincoln Undergraduate Research Symposium
 
 `Summer 2018`
-Clarifying the role of SMYD5 in heart disease
-Anna Jacobsen
+*Clarifying the role of SMYD5 in heart disease*
+__Anna Jacobsen__
 University of Utah Undergraduate Research Symposium
 
 ### Awards
