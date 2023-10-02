@@ -137,8 +137,8 @@ Languages: Spanish Diploma Level C1– Effective Operational Proficiency
 ## References
 Mindy Westlund-Schreiner–Principal Investigator, MEND2 Lab   <a href="mindy.westlund.schreiner@utah.edu">mindy.westlund.schreiner@utah.edu</a>  
 Chuck Dorval–Professor, Graduate Committee Chair	        <a href="chuck.dorval@bme.utah.edu">chuck.dorval@bme.utah.edu</a>  
-Sarah Franklin–Principal Investigator, Franklin Lab	         	        <a href="sarah.franklin@utah.edu"><sarah.franklin@utah.edu</a>  
-Jordin Curtis–Supervisor, Intermountain Health Telecrisis           <a href="jordin.curtis@imail.org"><jordin.curtis@imail.org</a>  
+Sarah Franklin–Principal Investigator, Franklin Lab	         	        <a href="sarah.franklin@utah.edu">sarah.franklin@utah.edu</a>  
+Jordin Curtis–Supervisor, Intermountain Health Telecrisis           <a href="jordin.curtis@imail.org">jordin.curtis@imail.org</a>  
 
 
 
